@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hsing/AndroidStudioProjects/cwac-camera-master/camera-gps/build/intermediates/exploded-aar/cwac-camera-master/camera/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c2838170e7e08fa2a3c886d7c641b0fbf325225e">
+        <dex dex="/Users/hsing/AndroidStudioProjects/cwac-camera-master/camera-gps/build/intermediates/pre-dexed/debug/classes-89e5f2884129927cc57066d136f9ca75158a392c.jar" />
+    </item>
+    <item
+        jar="/Users/hsing/AndroidStudioProjects/cwac-camera-master/demo/build/intermediates/exploded-aar/cwac-camera-master/camera/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="800489d9f34828394cb28779972f2f9c48f24423">
+        <dex dex="/Users/hsing/AndroidStudioProjects/cwac-camera-master/demo/build/intermediates/pre-dexed/debug/classes-91cffd1e5a85a087ffb3fc1bd595495e144c3402.jar" />
+    </item>
+
+</items>

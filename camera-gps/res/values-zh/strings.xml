@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS照相機</string>
+    <string name="auto_focus">自動對焦</string>
+    <string name="flash">閃光燈</string>
+    <string name="record">錄影</string>
+    <string name="show_zoom">縮放列</string>
+    <string name="single_shot_mode">單一照相模式</string>
+    <string name="standard">主相機</string>
+    <string name="stop">停止</string>
+    <string name="launch_camera_app">預設相機</string>
+    <string name="launch_full_screen">全螢幕</string>
+    <string name="lock_to_landscape">鎖定橫向</string>
+    <string name="mirror_ffc">Mirror FFC</string>
+    <string name="no_image">沒有影像</string>
+    <string name="ffc">副相機</string>
+</resources>

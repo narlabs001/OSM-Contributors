@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/camera/camera.iml" filepath="$PROJECT_DIR$/camera/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera-gps/camera-gps.iml" filepath="$PROJECT_DIR$/camera-gps/camera-gps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera-v9/camera-v9.iml" filepath="$PROJECT_DIR$/camera-v9/camera-v9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwac-camera-master.iml" filepath="$PROJECT_DIR$/cwac-camera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-layout/demo-layout.iml" filepath="$PROJECT_DIR$/demo-layout/demo-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-v9/demo-v9.iml" filepath="$PROJECT_DIR$/demo-v9/demo-v9.iml" />
+    </modules>
+  </component>
+</project>
+
